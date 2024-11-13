@@ -1,10 +1,3 @@
-//
-//  Stopwatch.swift
-//  Stopwatch
-//
-//  Copyright © 2016 YiGu. All rights reserved.
-//
-
 import Foundation
 
 class Stopwatch: NSObject {
